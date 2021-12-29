@@ -1,0 +1,14 @@
+# Target labels
+ imgui-download
+# Source files and their labels
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/imgui-download
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/2e8678ed649705517cd0e986e4d3401c/imgui-download.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/96e45be9816bbdf39dec244e5b339759/imgui-download-complete.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-build.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-configure.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-download.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-install.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-mkdir.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-patch.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-test.rule
+E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-update.rule

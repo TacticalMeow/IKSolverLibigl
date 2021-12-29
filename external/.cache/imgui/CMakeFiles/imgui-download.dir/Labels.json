@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/imgui-download"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/2e8678ed649705517cd0e986e4d3401c/imgui-download.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/96e45be9816bbdf39dec244e5b339759/imgui-download-complete.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-build.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-configure.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-download.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-install.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-mkdir.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-patch.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-test.rule"
+		},
+		{
+			"file" : "E:/Repositories/EngineForAnimationCourse/external/.cache/imgui/CMakeFiles/e7e50810188ee65a1467647dd550bf6c/imgui-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-download"
+		],
+		"name" : "imgui-download"
+	}
+}

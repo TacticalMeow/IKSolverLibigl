@@ -1,0 +1,9 @@
+# Directories
+build
+
+# Files
+*.vcxproj*
+*.pdb
+*.exe
+*.lib
+*.sln
